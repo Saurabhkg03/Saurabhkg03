@@ -1,11 +1,12 @@
 ![MasterHead](https://hejuba.ch/fileadmin/_processed_/4/7/csm_AdobeStock_457937822_69b6589962.jpeg)
 <h1 align="center">Heyy👋, I'm Saurabh Khushal Gaikwad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 
 
 <p align="left"> <a href="https://twitter.com/saurabh_exe" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_exe?logo=twitter&style=for-the-badge" alt="saurabh_exe" /></a> </p>
+<a href="https://instagram.com/__saurabhkg__" target="blank"><img src="https://img.shields.io/instagram/follow/__saurabh__?logo=instagram&style=for-the-badge" alt="__saurabh__" /></a> </p>
 
 - 🔭 I’m currently working on **a special project**
 
