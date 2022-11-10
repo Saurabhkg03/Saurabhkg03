@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/saurabh_exe" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_exe?logo=twitter&style=for-the-badge" alt="saurabh_exe" /></a> </p>
+
 
 - 🔭 I’m currently working on **a special project**
 
