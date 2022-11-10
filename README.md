@@ -34,6 +34,4 @@
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh03&theme=tokyonight&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh03&show_icons=true&locale=en" alt="saurabh03" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh03&" alt="saurabh03" /></p>
