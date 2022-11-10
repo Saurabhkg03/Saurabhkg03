@@ -34,4 +34,4 @@
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh03&theme=tokyonight&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh03&" alt="saurabh03" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhkg03&theme=blueberry)](https://git.io/streak-stats)
