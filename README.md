@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **a special project**
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **Javascript and C++**
 
 - 👯 I’m looking to collaborate on **anything**
 
