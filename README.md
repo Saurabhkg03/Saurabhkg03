@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **anyone :)**
 
-- 📫 How to reach me **saurabhkg36@gmail.com**
+- 📫 Reach me at **saurabhkg36@gmail.com**
 
 - ⚡ Fun fact **I like to do art and music very much.**
 
