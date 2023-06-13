@@ -1,4 +1,4 @@
-![MasterHead](https://www.linkpicture.com/q/csm_AdobeStock_457937822_69b6589962_1.jpg)
+
 <h1 align="center">Heyy👋, I'm Saurabh Gaikwad</h1>
 <h3 align="center">A Passionate Developer,Technophile and Design Enthusiast from India..Building my version of the
     digital world one step at a time.</h3>
