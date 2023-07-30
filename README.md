@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **anyone :)**
+- 🤝 I’m open to help **anyone :)**
 
 - 📫 Reach me at **saurabhkg36@gmail.com**
 
