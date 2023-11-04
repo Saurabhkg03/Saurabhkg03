@@ -73,7 +73,7 @@
                 alt="javascript" width="40" height="40" /> </a> </p>
                 
 [![@Saurabhkg03's Holopin board] (https://holopin.io/api/user/board?user=Saurabhkg03)]
-(holopin.io/@Saurabhkg03)
+
 
 ![Saurabh's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=Saurabh03&theme=tokyonight&show_icons=true)
