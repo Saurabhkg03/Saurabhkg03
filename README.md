@@ -72,7 +72,7 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" /> </a> </p>
                 
-[![@Saurabhkg03's Holopin board] (https://holopin.io/api/user/board?user=Saurabhkg03)]
+[![@Saurabhkg03's Holopin board] (https://holopin.io/api/user/board?user=Saurabhkg03)](holopin.io/@Saurabhkg03)
 
 
 ![Saurabh's GitHub
