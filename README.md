@@ -72,8 +72,8 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" /> </a> </p>
                 
-![An image of @saurabhkg03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhkg03)](https://holopin.io/@saurabhkg03)
-
+[![@Saurabhkg03's Holopin board] (https://holopin.io/api/user/board?user=Saurabhkg03)]
+(holopin.io/@Saurabhkg03)
 
 ![Saurabh's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=Saurabh03&theme=tokyonight&show_icons=true)
