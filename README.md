@@ -71,7 +71,8 @@
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" /> </a> </p>
-[![An image of @saurabhkg03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhkg03)](https://holopin.io/@saurabhkg03)
+                
+![An image of @saurabhkg03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhkg03)](https://holopin.io/@saurabhkg03)
 
 
 ![Saurabh's GitHub
